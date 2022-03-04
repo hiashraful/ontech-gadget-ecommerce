@@ -1,0 +1,78 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    background-color: #fff !important;
+}
+.logo{
+    width: 80px;
+    border-radius: 10px;
+}
+.banner-bg-img{
+    position: absolute;
+    z-index: -1;
+}
+.banner{
+    margin-top: 30px;
+}
+.slide-button{
+    text-decoration: none;
+    color: #fff;
+}
+.slide-button:hover{
+    color: #fff;
+}
+.space{
+    margin-bottom: 100px;
+}
+.card-header-link{
+    text-decoration: none;
+}
+.light-slate-grey{
+    color: lightslategray;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.catagory-box{
+    box-shadow: 5px 3px 25px 8px lightgrey;
+    padding: 40px;
+    border-radius: 5px 5px 5px 20px;
+}
+.catagory-box-2{
+    box-shadow: 5px 3px 25px 8px lightgrey;
+    padding: 40px;
+    border-radius: 10px 5px 25px 5px;
+    margin: 20px 0px;
+}
+.cat-header{
+    margin-top: 10px;
+}
+.line{
+    background: linear-gradient(90deg, tomato, rgb(250, 149, 131));
+    height: 5px;
+    width: 60px;
+    border-radius: 50px;
+}
+.footer-text{
+    color: lightslategrey;
+    font-size: 12px;
+}
+
+#subscribe{
+    height: 300px;
+    box-shadow: 3px 2px 7px 1px lightgrey;
+}
+
+#subscribe-button{
+    margin-top: 10px;
+}
+.line{
+    margin-bottom: 30px;
+}
+
+/* Smartphone Page Styles */
+.sp-header{
+    margin-bottom: 50px;
+}
