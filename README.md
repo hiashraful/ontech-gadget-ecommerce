@@ -1,2 +1,2 @@
 # ontech-gadget-ecommerce
-![preview](https://github.com/hiashraful/ontech-gadget-ecommerce/blob/main/preview.png?raw=true)
+![Preview Image](https://github.com/hiashraful/ontech-gadget-ecommerce/blob/main/assets/img/other/preview.png?raw=true)
